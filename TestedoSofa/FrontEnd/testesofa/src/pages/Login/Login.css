@@ -1,0 +1,24 @@
+.pagina{
+    display: initial;
+    align-items: center;
+    position: absolute;
+    height: 685px;
+    border: solid 25px;
+    border-color: #5CB85C;;
+}
+
+.textos{
+    margin-top: 10px;
+    padding-left: 80px;
+    text-align: left;
+    margin-top: 10px;
+    color:#322153;;
+}
+
+.forma{
+    padding-left: 80px;
+}
+
+.buttom{
+    padding-left: 80px;
+}

@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache

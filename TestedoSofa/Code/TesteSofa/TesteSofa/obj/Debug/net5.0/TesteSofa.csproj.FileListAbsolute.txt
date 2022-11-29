@@ -1,0 +1,70 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\TesteSofa.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\scopedcss\bundle\TesteSofa.styles.css
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\staticwebassets\TesteSofa.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\refint\TesteSofa.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\ref\TesteSofa.dll
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.csproj.AssemblyReference.cache
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.AssemblyInfoInputs.cache
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.AssemblyInfo.cs
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.csproj.CoreCompileInputs.cache
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.MvcApplicationPartsAssemblyInfo.cs
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.MvcApplicationPartsAssemblyInfo.cache
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.dll
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\refint\TesteSofa.dll
+D:\Docs\TesteSofa\TesteSofa\Code\TesteSofa\TesteSofa\obj\Debug\net5.0\TesteSofa.pdb

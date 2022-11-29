@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\AulaSLN\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll

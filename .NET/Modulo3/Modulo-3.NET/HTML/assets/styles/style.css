@@ -1,0 +1,111 @@
+@import url(component/buttons.css);
+@import url(component/cards.css);
+@import url(component/footer.css);
+@import url(component/receitas.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(208, 224, 200);
+}
+
+.princ {
+    width: 100%;
+}
+
+.princ header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.princ h1{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(10, 92, 3);
+    font-size: 40px; 
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-inline: 500px;   
+}
+
+.princ article {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.princ img{
+    width: 600px;
+    height: 300px;
+    padding: 10px;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: flex-start;
+    border-radius: 20px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(10, 92, 3);
+    text-align: center;  
+    margin: 6px;
+    padding: 3px;
+}
+
+.princ p{
+    display: flex;
+    font-family:'Roboto', sans-serif;
+    color: black;
+    margin: 0;
+    padding-inline: 380px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.card p {
+    font-family:'Roboto', sans-serif;
+    color: black;
+    margin: 0;
+    padding: 8px;
+}
+
+.products {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card h2{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(6, 100, 26);
+    text-align: center;  
+    margin: 8px;
+    padding: 0;
+}
+
+#menu a{
+    display: inline;
+    text-decoration: none;  
+    margin-left: 20px;
+    
+    color:rgb(12, 12, 12);
+    font-family: 'Roboto', sans-serif;
+}
+
+#menu{
+    padding: 10px;
+}
+
+/* CSS da página enviar receita */
+.contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(6, 100, 26);
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+}

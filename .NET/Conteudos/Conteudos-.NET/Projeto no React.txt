@@ -1,0 +1,25 @@
+Criar projeto no React no front
+
+baixar o node, versao mais usada e menos recente
+sempre verificar se realmente esta instalado com o comando node --version
+
+instalar o yarn globalmente para ficar no pc (ir no site do yarnpkg.com)
+fazer a intalação no git bash:
+npm install -g yarn
+
+criar project no react
+criar uma nova pasta no code
+no terminal:
+npx create-reat-app nomedoprojeto --template typescrip (esse typescrip pode ser alterado para java, isso é o pacote que vc tera que pegar no site das bibliotecas)
+
+para executar o app:
+va até a pasta
+yarn start
+
+mudar a versao para 18
+apagar a pasta node modules
+dar um yarn
+
+
+
+ 

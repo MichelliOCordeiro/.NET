@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.button{
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 5px; 
+}
+
+.button{
+    cursor: pointer;
+    color: rgb(15, 15, 15);
+    background: rgb(226, 201, 189);
+    border: 1px solid rgb(1, 18, 19);
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-family: 'Roboto', sans-serif;
+    transition: all 0.900s;      
+}
+
+.button:hover {
+    background: rgb(228, 247, 247);
+    color: rgb(43, 202, 22);
+}

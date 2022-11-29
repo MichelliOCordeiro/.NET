@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(208, 224, 200);
+    margin: 10px;
+    margin-left: 40px;
+    width: 100%;
+    align-items: flex-start;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.tit h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(10, 92, 3);
+    font-size: 30px; 
+    margin-top: 10px;
+    margin-bottom: 15px;
+ 
+}
+
+
+
+.tit{
+    width: 100%;
+}
+
+.tit header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(21, 182, 7);
+    text-align: center;
+}
+
+.tit h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(21, 182, 7);
+    font-size: 40px; 
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+

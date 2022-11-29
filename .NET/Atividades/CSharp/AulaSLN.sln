@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoologico", "Zoologico\Zoologico.csproj", "{8D02631E-6B6B-4583-951B-587CB84F6CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{BB28AE50-29CC-4D63-804B-57ADE048C63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D02631E-6B6B-4583-951B-587CB84F6CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D02631E-6B6B-4583-951B-587CB84F6CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D02631E-6B6B-4583-951B-587CB84F6CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D02631E-6B6B-4583-951B-587CB84F6CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB28AE50-29CC-4D63-804B-57ADE048C63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB28AE50-29CC-4D63-804B-57ADE048C63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB28AE50-29CC-4D63-804B-57ADE048C63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB28AE50-29CC-4D63-804B-57ADE048C63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

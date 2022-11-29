@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\refint\Classes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\C#Exercicios\Classes\obj\Debug\net5.0\ref\Classes.dll

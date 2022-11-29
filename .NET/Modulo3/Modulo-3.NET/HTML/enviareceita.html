@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <title>Envie sua receita</title>
+</head>
+<body>
+
+    <section id="menu">
+        <a href="index.html">Home</a>
+        <a href="enviareceita.html">Envie sua receita</a>
+    </section>
+
+    <section class="contato">
+    <h1>Envie sua receita</h1>
+
+    <form> 
+        <label for="nome">Nome</label>
+        <input type="text" id="nome"><br>
+    <br>
+        <label for="email">Email</label>
+        <input type="text" id="email" onkeyup='validaEmail()'><br>
+        <div id='txtEmail'></div>
+    <br>
+        <label for="nome da receita">Nome da receita</label>
+        <input type="text" id="nomeDaReceita"><br>
+    <br>
+        <label for="ingedientes">Ingredientes</label><br>    
+        <textarea name="ingredientes" id="ingredientes" cols="45" rows="10"></textarea><br>
+    <br>
+        <label for="Modo de preparo">Modo de preparo</label><br>
+        <textarea name="modo de preparo" id="modoDePreparo" cols="45" rows="10"></textarea>
+    <br>
+    <br>
+        <button>Enviar</button>
+
+    </form>
+
+</section>
+    
+    <script src="assets/js/script.js"></script> 
+
+</body>
+
+</html>

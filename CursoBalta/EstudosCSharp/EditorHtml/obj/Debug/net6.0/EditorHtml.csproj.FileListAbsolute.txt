@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Estudos\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
